@@ -1,26 +1,79 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Lucas Bezerra — Dev</title>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet" />
-  <style>
-    :root {
-      --bg:        #080c10;
-      --surface:   #0e1318;
-      --border:    #1a2535;
-      --cyan:      #00d4ff;
-      --cyan-dim:  #00d4ff33;
-      --green:     #00ff88;
-      --green-dim: #00ff8820;
-      --amber:     #ffb300;
-      --muted:     #4a6070;
-      --text:      #cdd8e3;
-      --text-dim:  #7a94a8;
-    }
+<div align="center">
 
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<h1>
+  <samp>J. Lucas Bezerra</samp>
+</h1>
+
+<samp>Desenvolvedor Full Stack &nbsp;·&nbsp; Micro SaaS &nbsp;·&nbsp; Brasil 🇧🇷</samp>
+
+<br/>
+<br/>
+
+![Status](https://img.shields.io/badge/⚡_Atuando_em_projetos-00d4ff?style=for-the-badge&logoColor=white)
+![Estágio](https://img.shields.io/badge/🎯_Disponível_para_estágio-00ff88?style=for-the-badge&logoColor=black)
+
+</div>
+
+---
+
+```js
+const lucas = {
+  stack:      "Full Stack Web",
+  foco:       "Micro SaaS & produtos digitais para pequenos negócios",
+  estudando:  "TypeScript avançado + arquitetura de software",
+  aberto:     ["estágio", "freela", "projetos colaborativos"],
+  princípio:  "Código simples. Produto que funciona."
+};
+```
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🍽️ **Menu Digital QR** | Cardápio digital com QR Code para pequenos negócios | `PHP` `MySQL` `Bootstrap 5` |
+| 📝 **RedaTech** | Plataforma de correção de redações ENEM com IA | `Node.js` `MySQL` `JWT` |
+| 🤖 **Fred** | Assistente de IA pessoal com leitura de tela | `Python` `Claude API` |
+| 🗄️ **Schema Visualizer** | Visualizador de esquemas MySQL com auth JWT | `Node.js` `Express` `MySQL` |
+
+---
+
+### 📬 Contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/seuemail@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=flat-square&logo=vercel&logoColor=white)](https://seusite.com)
+
+</div>
+
+---
+
+<div align="center">
+  <samp>feito com ♥ e muito café ☕</samp>
+</div>
 
     body {
       background: var(--bg);
