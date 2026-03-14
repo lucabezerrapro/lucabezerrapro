@@ -94,7 +94,7 @@ Ferramenta para visualizar e navegar em esquemas de banco de dados MySQL via int
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://jozelucas.vercel.app)
 
 </div>
 
@@ -132,12 +132,3 @@ Ferramenta para visualizar e navegar em esquemas de banco de dados MySQL via int
 | 🗄️ **Schema Visualizer** | Visualizador de esquemas MySQL com auth JWT | `Node.js` `Express` `MySQL` |
 
 ---
-
-### 📬 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/seuemail@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=flat-square&logo=vercel&logoColor=white)](https://jozelucas.vercel.app)
-
