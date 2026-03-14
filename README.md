@@ -1,134 +1,238 @@
 <div align="center">
 
-<br/>
-
-# 〈 J. Lucas Bezerra 〉
-
-**Desenvolvedor Full Stack** &nbsp;·&nbsp; Micro SaaS &nbsp;·&nbsp; Brasil 🇧🇷
-
-<br/>
-
-[![Projetos](https://img.shields.io/badge/⚡%20Atuando%20em%20projetos-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117)](.)
-[![Estágio](https://img.shields.io/badge/🎯%20Disponível%20para%20estágio-0d1117?style=for-the-badge&labelColor=00ff88&color=0d1117)](.)
-
-<br/>
-
-</div>
-
----
-
-> _Desenvolvedor Full Stack focado em construir produtos digitais reais para pequenos negócios._
-> _Atualmente atuando em projetos próprios e aberto a oportunidades de estágio._
-
----
-
-### 🛠️ Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Projetos em destaque
-
-<details>
-<summary><b>🍽️ Menu Digital QR</b> — Cardápio com QR Code para pequenos negócios</summary>
-<br/>
-
-Sistema completo de cardápio digital acessado via QR Code, desenvolvido com arquitetura MVC em PHP. Focado em pequenos negócios que querem digitalizar o atendimento sem custo de plataformas externas.
-
-**Stack:** `PHP` `MySQL` `Bootstrap 5` `MVC`
-
-</details>
-
-<details>
-<summary><b>📝 RedaTech</b> — Correção de redações ENEM com IA</summary>
-<br/>
-
-Plataforma que corrige redações no modelo ENEM usando inteligência artificial. Construída com padrões enterprise: Repository Pattern, Service Layer, logs estruturados com Winston.
-
-**Stack:** `Node.js` `MySQL` `JWT` `Winston`
-
-</details>
-
-<details>
-<summary><b>🤖 Fred</b> — Assistente de IA pessoal</summary>
-<br/>
-
-Assistente pessoal com interface de esfera flutuante e capacidade de leitura de tela. Integrado à Claude API da Anthropic.
-
-**Stack:** `Python` `Claude API` `OCR`
-
-</details>
-
-<details>
-<summary><b>🗄️ Schema Visualizer</b> — Visualizador de esquemas MySQL</summary>
-<br/>
-
-Ferramenta para visualizar e navegar em esquemas de banco de dados MySQL via interface web, com autenticação JWT.
-
-**Stack:** `Node.js` `Express` `MySQL` `JWT`
-
-</details>
-
----
-
-### 📬 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://jozelucas.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=180&section=header&text=Lucas%20Bezerra&fontSize=52&fontColor=f5c518&fontAlignY=38&desc=Fullstack%20Web%20Developer&descColor=a0a0b0&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>feito com ♥ e muito café ☕</sub>
+
+```
+  ██████╗ ███████╗██╗   ██╗    ███████╗██╗   ██╗██╗     ██╗     ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+  ██╔══██╗██╔════╝██║   ██║    ██╔════╝██║   ██║██║     ██║     ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+  ██║  ██║█████╗  ██║   ██║    █████╗  ██║   ██║██║     ██║     ███████╗   ██║   ███████║██║     █████╔╝ 
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔══╝  ██║   ██║██║     ██║     ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
+  ██████╔╝███████╗ ╚████╔╝     ██║     ╚██████╔╝███████╗███████╗███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
+
 </div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp; Sobre mim
+
+<p style="font-family: 'IBM Plex Mono', monospace; line-height: 1.8; color: #c9d1d9;">
+
+Desenvolvedor **Fullstack Web** apaixonado por transformar ideias em produtos digitais funcionais e bem estruturados.
+
+Atuo com foco em **Node.js**, **React** e **MySQL** — do banco de dados ao front-end, passando por APIs RESTful, autenticação JWT e deploys em produção.
+
+Trabalho com projetos reais para clientes, desde plataformas SaaS até sistemas de gestão personalizados.
+
+</p>
+
+```js
+const lucas = {
+  localização: "Serra Talhada, PE — Brasil 🇧🇷",
+  foco:        "Fullstack Web",
+  disponível:  true,
+  freelance:   "aberto a projetos",
+  aprendendo:  ["React avançado", "DevOps", "TypeScript"],
+};
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=f5c518&icon_color=f5c518&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=f5c518&text_color=c9d1d9&bg_color=0d1117)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6da55f)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=f5c518)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777bb4)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=f5c518)
+![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4aa)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f5c518)
+
+### Banco de Dados & Infra
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007acc)
 
 </div>
 
 ---
 
-### 🚀 Projetos
+## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🍽️ **Menu Digital QR** | Cardápio digital com QR Code para pequenos negócios | `PHP` `MySQL` `Bootstrap 5` |
-| 📝 **RedaTech** | Plataforma de correção de redações ENEM com IA | `Node.js` `MySQL` `JWT` |
-| 🤖 **Fred** | Assistente de IA pessoal com leitura de tela | `Python` `Claude API` |
-| 🗄️ **Schema Visualizer** | Visualizador de esquemas MySQL com auth JWT | `Node.js` `Express` `MySQL` |
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 [BetTrack](https://github.com/SEU_USERNAME/bettrack)
+> Plataforma SaaS de gestão de apostas esportivas
+
+```
+Stack: Node.js + Express + MySQL + JWT
+       HTML + Bootstrap 5 + Vanilla JS
+       Integração: AllSportsAPI + Stripe
+```
+
+- Dashboard com estatísticas em tempo real
+- Sistema automático de verificação de resultados
+- Ranking de usuários e relatórios em PDF/Excel
+- Arquitetura modular com autenticação JWT
+
+![Node](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js&logoColor=6da55f)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat&logo=mysql&logoColor=4479a1)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=flat&logo=bootstrap&logoColor=7952b3)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍽️ [Menu Digital SaaS](https://github.com/SEU_USERNAME/menu-saas)
+> Sistema de cardápio digital com QR Code para restaurantes
+
+```
+Stack: PHP MVC + MySQL
+       Bootstrap 5 + Vanilla JS
+       QR Code dinâmico por estabelecimento
+```
+
+- Painel admin por restaurante (multi-tenant)
+- Geração de QR Code único por cliente
+- Dashboard com analytics de acesso
+- Planos de assinatura com cobrança recorrente
+
+![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php&logoColor=777bb4)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat&logo=mysql&logoColor=4479a1)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📝 [RedaTech](https://github.com/SEU_USERNAME/redatech)
+> Sistema de correção de redações estilo ENEM com IA
+
+```
+Stack: Node.js + Express + MySQL
+       Repository Pattern + Service Layer
+       Winston logging + AppError hierarchy
+```
+
+- Correção detalhada por competência
+- Histórico de redações por aluno
+- Arquitetura enterprise com separação de responsabilidades
+
+![Node](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js&logoColor=6da55f)
+![Express](https://img.shields.io/badge/-Express-0d1117?style=flat&logo=express&logoColor=f5c518)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 [Gestão de Mercado](https://github.com/SEU_USERNAME/market-system)
+> Sistema de gestão para pequenos comércios e mercadinhos
+
+```
+Stack: Node.js + Express + MySQL
+       Bootstrap 5 + Vanilla JS
+       Interface CRUD simplificada
+```
+
+- Controle de estoque e produtos
+- Cadastro de clientes e fornecedores
+- Relatórios simples de vendas
+- UI limpa focada em facilidade de uso
+
+![Node](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js&logoColor=6da55f)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=flat&logo=bootstrap&logoColor=7952b3)
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 📊 Atividade
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark-blue&hide_border=true&fire=f5c518&ring=f5c518&currStreakLabel=f5c518&sideLabels=a0a0b0&dates=a0a0b0&background=0d1117)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=f5c518&line=f5c518&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="mailto:SEU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
+</a>
+&nbsp;
+<a href="https://SEU_PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=firefox&logoColor=f5c518" />
+</a>
+&nbsp;
+<a href="https://wa.me/55SEUNUMERO">
+  <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25d366" />
+</a>
+
+<br/><br/>
+
+> *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."*
+> — **Robert C. Martin**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%" />
+
+<sub style="color: #555;">Feito com ☕ e muito <code>console.log()</code> — Serra Talhada, PE 🇧🇷</sub>
+
+</div>
